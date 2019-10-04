@@ -35,10 +35,11 @@ If you run into issues, see [how to get support for Azure Active Directory](http
 
 To access the reporting API, with or without user intervention, you need to:
 
-1. Assign roles (Security Reader, Security Admin, Global Admin)
-2. Register an application
-3. Grant permissions
-4. Gather configuration settings
+1. Azure AD Premium P1 or higher
+2. Assign roles (Security Reader, Security Admin, Global Admin)
+3. Register an application
+4. Grant permissions
+5. Gather configuration settings
 
 For detailed instructions, see the [prerequisites to access the Azure Active Directory reporting API](howto-configure-prerequisites-for-reporting-api.md). 
 
